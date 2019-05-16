@@ -1,3 +1,6 @@
+My very first project on react+redux on client-side and firebase by google on server-side.
+link to app https://fozzy-wariors.firebaseapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
